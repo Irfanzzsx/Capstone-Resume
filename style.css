@@ -1,0 +1,128 @@
+.title {
+    background-color:   #ADB2D4;
+    color: #EEF1DA;
+
+}
+
+.nav-link {
+    color: #ADB2D4;
+}
+
+.navbar .nav a {
+    color: #ADB2D4;
+}
+
+.color-spn {
+    color: #ADB2D4;
+}
+
+body {
+    background-color: #f6f8e6f3;
+}
+
+h1 {
+    font-family: "Caveat", cursive;
+    font-weight: 700px;
+    font-size: 120px;
+}
+
+.body {
+    display: flex;
+}
+
+.title p {
+    font-family: "Libre Baskerville", serif;
+    font-size: 30px;
+}
+
+.row .col .bold {
+    color: #EEF1DA;
+    font-family: "Caveat", cursive;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+
+.col p {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+
+.color-btn  {
+    background-color: #ADB2D4;
+    color: #EEF1DA;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    font-weight: 700;
+}
+
+.color-btn:hover {
+    background-color: #C7D9DD;
+}
+
+button > a {
+    text-decoration: none;
+    color: white;
+}
+
+.title > p {
+    font-size: 30px;
+    margin-top: 0px;
+    font-family: "Libre Baskerville", serif;
+}
+
+.body p {
+    color: #ADB2D4;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: #ADB2D4;
+    color: white;
+    font-size: 130%;
+}
+
+.rounded-circle {
+    border: 5px solid #ADB2D4;
+}
+
+.nav-link {
+    color:#EEF1DA
+}
+
+.nav-link:hover {
+    color: #C7D9DD;
+}
+
+.row {
+    border-radius: 20px;
+    background-color:#ADB2D4;
+    padding: 5%;
+}
+
+.skills {
+    font-weight: 700;
+    font-size: 90px;
+    font-family: "Caveat", cursive;
+    color: #EEF1DA;
+}
+
+.contact {
+    color: #ADB2D4;
+}
+
+@media (max-width:1200px) {
+    .bold {
+        text-align: center;
+    }
+    
+    .row img {
+        margin-top: 40px;
+    }
+
+    .row p {
+        text-align: center;
+    }
+}
