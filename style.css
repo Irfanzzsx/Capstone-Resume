@@ -122,6 +122,14 @@ button > a {
         margin-top: 40px;
     }
 
+     h1 {
+        font-size: 50px;
+    }
+
+    .title p {
+        font-size: 15px;
+    }
+    
     .row p {
         text-align: center;
     }
